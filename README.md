@@ -1,40 +1,47 @@
-# Architect theme
+![preview Long Haul](/preview.jpg)
 
-This is a [Jekyll][1] theme that is an adaptation of [@jasonlong][2]'s [Architect theme][4] on [GitHub Pages][3].
+Long Haul is a minimal jekyll theme built with COMPASS / SASS / SUSY and focuses on long form blog plosts. It is meant to used as a starting point for a jekyll blog/website.
 
-This is the raw HTML and styles that are used for the *Architect* theme on [GitHub Pages](http://pages.github.com/).
+If you really enjoy Long Haul and want to give me credit somewhere on the send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaier).
 
-![](http://cl.ly/image/1x0Q3213330G/content)
+####[View Demo](http://brianmaierjr.com/long-haul)
 
-# How to use it?
+## Features
 
-Install Jekyll in your system
+- Minimal, Type Focused Design
+- Built with SASS + COMPASS
+- Layout with SUSY Grid
+- SVG Social Icons
+- Responsive Nav Menu
+- XML Feed for RSS Readers
+- Contact Form via Formspree
+- 5 Post Loop with excerpt on Home Page
+- Previous / Next Post Navigation
+- Estimated Reading Time for posts
+- Stylish Drop Cap on posts
+- A Better Type Scale for all devices
 
-```
-$ gem install jekyll # use sudo if your system requires it
-```
+## Setup
 
-Download the theme @ http://github.com/pietromenna/jekyll-architect-theme/archive/master.zip
+1. [Install Jekyll](http://jekyllrb.com)
+2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+3. Clone it
+4. Run Jekyll `jekyll serve -w`
+5. Run `compass watch`
+6. Customize!
 
-Unzip it and use it as a regular jekyll folder.
+## Site Settings
 
-```
-$ unzip master.zip
-```
+The main settings can be found inside the `_config.yml` file:
 
-Use it!
+- **title:** title of your site
+- **description:** description of your site
+- **url:** your url
+- **paginate:** the amount of posts displayed on homepage
+- **navigation:** these are the links in the main site navigation
+- **social** diverse social media usernames (optional)
+- **google_analytics** Google Analytics key (optional)
 
-```
-$ jekyll serve
-```
+## License
 
-For more details read about [Jekyll][1] on its web page.
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/).
-
-[1]: http://jekyllrb.com
-[2]: https://github.com/jasonlong
-[3]: http://pages.github.com/
-[4]: http://github.com/jasonlong/architect-theme
+This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
