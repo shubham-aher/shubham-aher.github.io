@@ -1,27 +1,26 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: "http://shubham-aher.github.io/"
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-markdown: redcarpet
-highlighter: rouge
-paginate: 5
+# Setup
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
-social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+paginate:         5
 
-google_analytics: "UA-58263416-1"
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
