@@ -3,28 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+>*I hear and I forget.<br>I see and I remember.<br>I do and I understand.*<br>
+  &mdash; *Confucius*
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hellow, there ! I am currently working as Associate Consultant at TIBCO Software Inc., Pune.
+  
+## Blog Site
 
-There are currently two themes built on Poole:
+Some fun facts about this blogsite:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Built with <a href="http://getpoole.com" target="_blank">Poole</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
+* Hosted with ♥ on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>
+* Source available on <a href="https://github.com/shubham-aher/shubham-aher.github.io" target="_blank">Github</a>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Feel free to [contact/criticize/compliment/comment](mailto:shubham.aher.2011@gmail.com).
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks for visiting !!
