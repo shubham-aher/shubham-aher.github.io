@@ -2,12 +2,12 @@ title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
+baseurl: "http://shubham-aher.github.io/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 paginate: 5
 
 navigation:
