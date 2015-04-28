@@ -3,23 +3,28 @@ layout: page
 title: About
 ---
 
->*I hear and I forget.<br>I see and I remember.<br>I do and I understand.*<br>
-  &mdash; *Confucius*
+![Profile Picture](/public/dp.jpg)
 
-Hellow, there ! I am currently working as Associate Consultant at <a href="http://tibco.com" target="_blank">TIBCO Software Inc.</a>, <a href="http://en.wikipedia.org/wiki/Pune" target="_blank">Pune</a>.
+Hellow, there ! I am currently working as Associate Consultant at <a href="http://tibco.com" target="_blank">TIBCO Software Inc., Pune</a>.
 
-I have a Bachelor's Degree in Information Technology (University of Pune) from <a href="http://pict.edu" target="_blank">Pune Institute of Computer Technology</a>
+I have a Bachelor's Degree in Information Technology (University of Pune) from <a href="http://en.wikipedia.org/wiki/Pune_Institute_of_Computer_Technology" target="_blank">Pune Institute of Computer Technology</a>.
 
-Other than my work I am interested in mobile development, mobile security, reverse engineering. I also take keen interest in <a href="http://shubhamaher.com/juggling" target="_blank">juggling</a>, blogging, travelling, blog reading.
+Other than my professional work I am interested in mobile development, mobile security, reverse engineering. I also take keen interest in <a href="http://shubhamaher.com/juggling" target="_blank">juggling</a>, blogging, travelling, blog reading.
 
 ## Blog Site
 
 Some fun facts about this blogsite:
 
-* Built with <a href="http://getpoole.com" target="_blank">Poole</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
-* Hosted with ♥ on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>
-* Source available on <a href="https://github.com/shubham-aher/shubham-aher.github.io" target="_blank">Github</a>
+* Built with <a href="http://getpoole.com" target="_blank">Poole</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.
+* Hosted with ♥ on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>.
+* Source available on <a href="https://github.com/shubham-aher/shubham-aher.github.io" target="_blank">Github</a>.
+* Thanks to a lot of people like <a href="https://github.com/thomascannon/" target="_blank">Thomas</a>, <a href="http://joshualande.com/jekyll-github-pages-poole/" target="_blank">Joshua</a>, <a href="http://nathantreid.com/setting-up-this-blog/" target="_blank">Nathan</a> and <a href="http://loyc.net/2014/blogging-on-github.html" target="_blank">David</a> for sharing Jekyll-related technical information.
+* Photo Courtesy: Ankush.
 
-Feel free to [contact/criticize/compliment/comment](mailto:shubham.aher.2011@gmail.com).
+Feel free to [contact / criticize / compliment / comment](mailto:shubham.aher.2011@gmail.com).
 
 Thanks for visiting !!
+
+---
+> *&ldquo; I hear and I forget. I see and I remember. I do and I understand.*&rdquo;<br>
+  &mdash; *Confucius*
