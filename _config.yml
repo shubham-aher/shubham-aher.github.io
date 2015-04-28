@@ -1,15 +1,16 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      rogue
+highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+#permalink:        pretty
+permalink:        '/:title'
 relative_permalinks: true
 
 # Setup
 title:            Shubham Aher
 tagline:          'Blog'
-description:      '23. Hardcore <a href="http://www.chetannarain.com/teaser.html#CancerMan" target="_blank">Cancerian</a>. Yuppie @ <a href="http://tibco.com" target="_blank">TIBCO</a>. Hobby <a href="http://shubhamaher.com/juggling" target="_blank">Juggler</a>. Single. Lazy <a href="http://shubhamaher.com/blog">Blogger</a>. Hailing from <a href="http://en.wikipedia.org/wiki/Nashik" target="_blank">Nasik</a>. Living in <a href="http://en.wikipedia.org/wiki/Pune" target="_blank">Pune</a>.'
+description:      '23. Hardcore <a href="http://www.chetannarain.com/teaser.html#CancerMan" target="_blank">Cancerian</a>.<br>Yuppie @ <a href="http://tibco.com" target="_blank">TIBCO</a>.<br>Hobby <a href="http://shubhamaher.com/juggling" target="_blank">Juggler</a>.<br>Lazy <a href="http://shubhamaher.com/blog">Blogger</a>.<br>Hailing from <a href="http://en.wikipedia.org/wiki/Nashik" target="_blank">Nasik</a>.<br>Living in <a href="http://en.wikipedia.org/wiki/Pune" target="_blank">Pune</a>.'
 url:              http://shubhamaher.com
 baseurl:          /
 
