@@ -11,3 +11,6 @@ permalink: projects/
           {% endif %}
         {% endif %}
       {% endfor %}
+
+---	  
+>*&ldquo; The severity of the itch is inversely proportional to the ability of scratching it. &rdquo;*<br>&mdash; Internet
