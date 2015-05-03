@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: about/
 ---
 
 ![Profile Picture](/public/dp.jpg)
@@ -18,7 +19,7 @@ Some fun facts about this blogsite:
 * Built with <a href="http://getpoole.com" target="_blank">Poole</a> for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>.
 * Hosted with ♥ on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>.
 * Source available on <a href="https://github.com/shubham-aher/shubham-aher.github.io" target="_blank">Github</a>.
-* Thanks to a lot of people like <a href="https://github.com/thomascannon/" target="_blank">Thomas</a>, <a href="http://joshualande.com/jekyll-github-pages-poole/" target="_blank">Joshua</a>, <a href="http://nathantreid.com/setting-up-this-blog/" target="_blank">Nathan</a> and <a href="http://loyc.net/2014/blogging-on-github.html" target="_blank">David</a> for sharing Jekyll-related technical information.
+* Thanks to a lot of people like <a href="http://patricksteadman.ca/2014/08/04/lanyonsetup/" target="_blank">Patrick</a>, <a href="https://github.com/thomascannon/" target="_blank">Thomas</a>, <a href="http://joshualande.com/jekyll-github-pages-poole/" target="_blank">Joshua</a>, <a href="http://nathantreid.com/setting-up-this-blog/" target="_blank">Nathan</a> and <a href="http://loyc.net/2014/blogging-on-github.html" target="_blank">David</a> for sharing Jekyll-related technical information and code sources.
 * Photo Courtesy: Ankush.
 
 Feel free to [contact / criticize / compliment / comment](mailto:shubham.aher.2011@gmail.com).
@@ -28,3 +29,6 @@ Thanks for visiting !!
 ---
 > *&ldquo; I hear and I forget. I see and I remember. I do and I understand.*&rdquo;<br>
   &mdash; *Confucius*
+
+<br>  
+<p><font color="red" size="2">This is a personal blog. The opinions expressed here represent my own and not those of my employer.</font></p>
