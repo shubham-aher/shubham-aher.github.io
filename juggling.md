@@ -13,4 +13,3 @@ permalink: juggling/
       {% endfor %}
 ###Coming Soon !
 ---	  
->*&ldquo; <a href="http://en.wikipedia.org/wiki/Passing_(juggling)" target="_blank">Passing clubs</a> is one of the most funniest things two people can do without taking their clothes off. &rdquo;*<br>&mdash; Isaac Orr

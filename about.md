@@ -22,7 +22,7 @@ Some fun facts about this blogsite:
 * Thanks to a lot of people like <a href="http://patricksteadman.ca/2014/08/04/lanyonsetup/" target="_blank">Patrick</a>, <a href="https://github.com/thomascannon/" target="_blank">Thomas</a>, <a href="http://joshualande.com/jekyll-github-pages-poole/" target="_blank">Joshua</a>, <a href="http://nathantreid.com/setting-up-this-blog/" target="_blank">Nathan</a> and <a href="http://loyc.net/2014/blogging-on-github.html" target="_blank">David</a> for sharing Jekyll-related technical information and code sources.
 * Photo Courtesy: Ankush.
 
-Feel free to [contact / criticize / compliment / comment](mailto:shubham.aher.2011@gmail.com).
+Feel free to [contact / criticize / compliment / comment](mailto:shubham.s.aher@gmail.com).
 
 Thanks for visiting !!
 
