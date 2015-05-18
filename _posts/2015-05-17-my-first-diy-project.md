@@ -20,9 +20,9 @@ This simple yet powerful weapon seemed to be favourite amongst all tribal commun
     </figure>
 </div>
 
-Two weeks later, this weekend, a friend of mine involuntarily reminded me of this DiY Project and I immediately decided to make one today.
+This weekend, a friend of mine involuntarily reminded me of this DiY Project and I immediately decided to make one today.
 
-Although, the above video is self-explanatory, I have summarized below, the steps that I did to make the blowgun.
+Although, the above video is self-explanatory, I have summarized below, all the steps that I did to make the blowgun.
 
 ###Things needed for Blowgun:
 
