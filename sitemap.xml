@@ -1,89 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>http://shubhamaher.com/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/juggling/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/blog/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/about/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/projects/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/my-first-diy-project/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/android-malware-analysis-null-security/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/how-to-change-htc-sense-21-ring/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/native-android-reverse-engineering/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/list-of-blogs-for-reverse-engineering/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/page2/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/android-reverse-engineering-tutorial1/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/win32-reverse-engineering-tutorial1/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/java-reverse-engineering-tutorial3/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/java-reverse-engineering-tutorial2/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://shubhamaher.com/java-reverse-engineering-tutorial1/</loc>
-  <lastmod>2015-05-18T10:07:23+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://shubhamaher.com//my-first-diy-project</loc>
+    <lastmod>2015-05-17T00:00:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//android-malware-analysis-null-security</loc>
+    <lastmod>2014-09-20T21:55:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//how-to-change-htc-sense-21-ring</loc>
+    <lastmod>2013-05-01T14:03:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//native-android-reverse-engineering</loc>
+    <lastmod>2013-04-27T21:07:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//list-of-blogs-for-reverse-engineering</loc>
+    <lastmod>2013-04-09T20:51:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//android-reverse-engineering-tutorial1</loc>
+    <lastmod>2013-01-21T01:21:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//win32-reverse-engineering-tutorial1</loc>
+    <lastmod>2012-08-10T01:37:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//java-reverse-engineering-tutorial3</loc>
+    <lastmod>2012-07-23T22:41:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//java-reverse-engineering-tutorial2</loc>
+    <lastmod>2012-07-23T02:42:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//java-reverse-engineering-tutorial1</loc>
+    <lastmod>2012-07-23T00:07:00+05:30</lastmod>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//404.html</loc>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//about/</loc>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//blog/</loc>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//</loc>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//juggling/</loc>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//projects/</loc>
+  </url>
+  <url>
+    <loc>http://shubhamaher.com//google31946cc046b7b372.html</loc>
+    <lastmod>2015-05-26T16:33:37+05:30</lastmod>
+  </url>
 </urlset>
