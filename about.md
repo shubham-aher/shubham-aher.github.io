@@ -6,11 +6,11 @@ permalink: about/
 
 ![Profile Picture](/public/dp.jpg)
 
-Hellow, there ! I am currently working as Associate Consultant at <a href="http://tibco.com" target="_blank">TIBCO Software Inc., Pune</a>.
+Hellow, there ! I am currently working as Associate Consultant at <a href="http://www.tibco.com" target="_blank">TIBCO Software Inc., Pune</a>.
 
 I have a Bachelor's Degree in Information Technology (University of Pune) from <a href="http://en.wikipedia.org/wiki/Pune_Institute_of_Computer_Technology" target="_blank">Pune Institute of Computer Technology</a>.
 
-Other than my professional work I am interested in mobile development, mobile security, reverse engineering. I also take keen interest in <a href="http://shubhamaher.com/juggling" target="_blank">juggling</a>, blogging, travelling, blog reading.
+Other than my professional work I am interested in mobile development, mobile security, reverse engineering. I also take keen interest in <a href="http://shubhamaher.com/juggling">juggling</a>, <a href="http://shubhamaher.com/blog">blogging</a>, travelling, blog reading.
 
 ## Blog Site
 
