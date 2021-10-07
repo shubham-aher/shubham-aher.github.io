@@ -9,8 +9,8 @@ permalink:        '/:title'
 # Setup
 title:            Shubham Aher
 tagline:          'Blog'
-description:      '30. Hardcore <a href="https://www.facebook.com/notes/whats-your-sun-sign-book-by-chetan-d-narain/cancer-man-by-chetan-d-narain/284585004897150" target="_blank">Cancerian</a>.<br>Yuppie @ <a href="http://www.tibco.com" target="_blank">TIBCO</a>.<br>Hobby <a href="http://shubhamaher.com/juggling">Juggler</a>.<br>Lazy <a href="http://shubhamaher.com/blog">Blogger</a>.<br>Hailing from <a href="http://en.wikipedia.org/wiki/Nashik" target="_blank">Nasik</a>.<br>Living in <a href="http://en.wikipedia.org/wiki/Pune" target="_blank">Pune</a>.'
-url:              http://shubhamaher.com
+description:      '30. Hardcore <a href="https://www.facebook.com/notes/whats-your-sun-sign-book-by-chetan-d-narain/cancer-man-by-chetan-d-narain/284585004897150" target="_blank">Cancerian</a>.<br>Senior Software Engineer @ <a href="https://www.pieriandx.com" target="_blank">PierianDx</a>.<br>Hobby <a href="https://shubhamaher.com/juggling">Juggler</a>.<br>Lazy <a href="https://shubhamaher.com/blog">Blogger</a>.<br>Hailing from <a href="https://en.wikipedia.org/wiki/Nashik" target="_blank">Nashik</a>.<br>Living in <a href="https://en.wikipedia.org/wiki/Pune" target="_blank">Pune</a>.'
+url:              https://shubhamaher.com
 baseurl:          /
 
 author:

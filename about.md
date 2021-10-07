@@ -6,7 +6,7 @@ permalink: about/
 
 ![Profile Picture](/public/dp.jpg)
 
-Hellow, there ! I am currently working as Associate Consultant at <a href="http://www.tibco.com" target="_blank">TIBCO Software Inc., Pune</a>.
+Hellow, there ! I am currently working as Senior Software Engineer at <a href="https://www.pieriandx.com" target="_blank">PierianDx Inc., Pune</a>.
 
 I have a Bachelor's Degree in Information Technology (University of Pune) from <a href="http://en.wikipedia.org/wiki/Pune_Institute_of_Computer_Technology" target="_blank">Pune Institute of Computer Technology</a>.
 
