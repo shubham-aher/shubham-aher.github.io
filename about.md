@@ -12,6 +12,8 @@ I have a Bachelor's Degree in Information Technology (University of Pune) from <
 
 Other than my professional work I am interested in mobile development, mobile security, reverse engineering. I also take keen interest in <a href="http://shubhamaher.com/juggling">juggling</a>, <a href="http://shubhamaher.com/blog">blogging</a>, travelling, blog reading.
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shubham--aher" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/shubham--aher?trk=profile-badge">Shubham Aher</a></div>
+<br>  
 ## Blog Site
 
 Some fun facts about this blogsite:
