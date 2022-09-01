@@ -6,7 +6,7 @@ permalink: about/
 
 ![Profile Picture](/public/dp.jpg)
 
-Hellow, there ! I am currently working as Senior Software Engineer at <a href="https://www.pieriandx.com" target="_blank">PierianDx Inc., Pune</a>.
+Hellow, there ! I am currently working as Principal Software Engineer at <a href="https://www.operative.com" target="_blank">Operative, Pune</a>.
 
 I have a Bachelor's Degree in Information Technology (University of Pune) from <a href="http://en.wikipedia.org/wiki/Pune_Institute_of_Computer_Technology" target="_blank">Pune Institute of Computer Technology</a>.
 
