@@ -3,9 +3,6 @@ layout: page
 title: Juggling
 permalink: juggling/
 ---
-{% for post in site.juggling %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
-{% endfor %}
 
 ###The Beginning...
 Since childhood I have been fascinated by people like magicians, jugglers, gymnasts, etc.
