@@ -3,13 +3,13 @@ layout: post
 title: Jamun Shots - Recipe
 ---
 
-###Ingredients 
-Jamuns ( Jambul ) – 500gms 
-Rock salt – 2 pinches 
-Salt – 1 pinch 
-Water – 1 glass 
+### Ingredients 
+1. Jamuns ( Jambul ) – 500gms 
+2. Rock salt – 2 pinches 
+3. Salt – 1 pinch 
+4. Water – 1 glass 
 
-###Preparation   
+### Preparation   
 
 1. Clean the Jamuns by washing in water. 
 2. Soak in water for about 1 hour. 
