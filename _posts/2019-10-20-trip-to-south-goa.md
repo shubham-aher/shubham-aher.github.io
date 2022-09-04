@@ -95,5 +95,12 @@ amount only) 	4595 INR
 
 Grand Total: 	16890 INR
 
-> ``This post is recovered from damaged website. Work in progress for below 5 specific blogposts:``
-> 
+> ``This post is recovered from damaged website. Work is in progress for below 5 specific blogposts:``
+
+http://shubhamaher.com/jamun-shots-recipe
+
+http://shubhamaher.com/torna-fort-trek
+
+http://shubhamaher.com/boiled-egg-bhurji-recipe
+
+http://shubhamaher.com/trip-to-south-goa
