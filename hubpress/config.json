@@ -2,8 +2,7 @@
 	"meta": {
 		"username": "shubham-aher",
 		"repositoryName": "shubham-aher.github.io",
-		"branch": "master",
-		"cname": "shubhamaher.com"
+		"branch": "master"
 	},
 	"theme": {
 		"name": "Casper"
