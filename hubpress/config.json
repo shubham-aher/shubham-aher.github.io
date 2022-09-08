@@ -1,0 +1,11 @@
+{
+	"meta": {
+		"username": "shubham-aher",
+		"repositoryName": "hubpress.io",
+		"branch": "master",
+		"cname": "shubhamaher.com"
+	},
+	"theme": {
+		"name": "Casper"
+	}
+}
