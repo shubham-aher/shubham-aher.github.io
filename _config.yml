@@ -18,7 +18,7 @@ author:
   twitterurl:     https://twitter.com/shubham_aher
   githuburl:     https://github.com/shubham-aher
 
-paginate:         1000
+paginate:         1000 ##TODO Keep pagination value higher
 
 # Custom vars
 version:          2.1.0
