@@ -18,7 +18,7 @@ author:
   twitterurl:     https://twitter.com/shubham_aher
   githuburl:     https://github.com/shubham-aher
 
-paginate:         5
+paginate:         1000
 
 # Custom vars
 version:          2.1.0
