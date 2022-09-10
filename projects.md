@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-permalink: projects/
 ---
       {% assign pages_list = site.pages | sort:"name" %}
       {% for node in pages_list reversed %}
