@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title: Juggling
 ---
 
-###The Beginning...
+### The Beginning...
 Since childhood I have been fascinated by people like magicians, jugglers, gymnasts, etc.
 
 I was 10 when, I autodidactically learnt to juggle 3 rubber cricket balls. 
@@ -18,28 +18,28 @@ Since then I have been juggling <a href="http://en.wikipedia.org/wiki/Juggling_b
 
 Below you will find various props I juggle, videos I have learnt from and jugglers who motivate me.
 
-###Videos I have learnt from:
+### Videos I have learnt from:
 <a href="http://www.youtube.com/watch?v=oE2qI5uTb1U" target="_blank">3 Ball Mills Mess</a>  
 <a href="http://www.youtube.com/watch?v=0I8Edzbb700" target="_blank">4 Ball Fountain</a>
 
-###Other Inspiring Youtube Channels for Juggling:
+### Other Inspiring Youtube Channels for Juggling:
 <a href="http://www.youtube.com/user/eMretsiM/videos" target="_blank">Alan Chung</a>  
 <a href="http://www.youtube.com/user/Draitube/videos" target="_blank">Jason Lu</a>  
 <a href="http://www.youtube.com/user/JugglingStein/videos" target="_blank">JugglingStein</a>
 
-###Props I Juggle:
+### Props I Juggle:
 <a href="http://en.wikipedia.org/wiki/Bean_bag" target="_blank">Beanbags</a>  
 <a href="http://en.wikipedia.org/wiki/Juggling_ring" target="_blank">Rings</a>  
 <a href="http://en.wikipedia.org/wiki/Juggling_club" target="_blank">Clubs</a>  
 <a href="http://en.wikipedia.org/wiki/Diabolo" target="_blank">Diabolo</a>  
 <a href="http://en.wikipedia.org/wiki/Contact_juggling" target="_blank">Acrylic Ball</a>  
 
-###Favourite Jugglers:
+### Favourite Jugglers:
 <a href="http://vova.galchenko.com/" target="_blank">Vova Galchenko</a>  
 <a href="http://evsukevich.com/" target="_blank">Pavel Evsukevich</a>  
 <a href="http://tytojo.com" target="_blank">Ty Tojo</a>
 
-###Gallery:
+### Gallery:
 ![Club Juggling](/public/img/juggling/clubjuggling.jpg) 
 *3 clubs juggling at Kusumagraj Udyan, Nasik. Dt.: 23 March 2012*  
 

@@ -24,7 +24,7 @@ This weekend, a friend of mine involuntarily reminded me of this DiY Project and
 
 Although, the above video is self-explanatory, I have summarized below, all the steps that I did to make the blowgun.
 
-###Things needed for Blowgun:
+### Things needed for Blowgun:
 
 I already had a pack of sticky notes and a pair of scissors, so I went to a nearby hardware store and bought the following required things as seen in the above video:
 
@@ -41,11 +41,11 @@ I already had a pack of sticky notes and a pair of scissors, so I went to a near
 
 ![Things needed](/public/img/blowgun/thingsneeded.jpg)
 
-###Making the Blowgun
+### Making the Blowgun
 
 As the blowgun comprises of only two things, we simply snug-fit the connector to the PVC pipe at one end.
 
-###Making the Darts
+### Making the Darts
 
 This is one of the important part of the whole blowgun kit.
 
@@ -147,7 +147,7 @@ Now, picture# 3.c shows how an empty paper dart looks.
 **Picture# 7.a**
 <br><br>
 
-###Making the Dartboard
+### Making the Dartboard
 
 I dont have a dartboard, so I decided to make one by reusing things at home.
 
@@ -161,7 +161,7 @@ I dont have a dartboard, so I decided to make one by reusing things at home.
 **Picture# 8.b**
 <br><br>
 
-###Testing the Blowgun kit
+### Testing the Blowgun kit
 
 Now that the dartboard is ready, I decided to try the complete blowgun kit.
 
