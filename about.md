@@ -9,7 +9,7 @@ Hellow, there ! I am currently working as Principal Software Engineer at <a href
 
 I have a Bachelor's Degree in Information Technology (University of Pune) from <a href="http://en.wikipedia.org/wiki/Pune_Institute_of_Computer_Technology" target="_blank">Pune Institute of Computer Technology</a>.
 
-Other than my professional work I am interested in mobile development, mobile security, reverse engineering. I also take keen interest in <a href="http://shubhamaher.com/juggling">juggling</a>, <a href="http://shubhamaher.com/blogs">blogging</a>, travelling, blog reading.
+Other than my professional work I am interested in mobile development, mobile security, reverse engineering. I also take keen interest in <a href="http://shubhamaher.com/juggling">juggling</a>, <a href="http://shubhamaher.com/blog">blogging</a>, travelling, blog reading.
 
 <br>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shubham--aher" data-version="v1"></div>
