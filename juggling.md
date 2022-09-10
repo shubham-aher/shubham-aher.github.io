@@ -1,5 +1,5 @@
 ---
-layout: post ##TODO Dont change post layout to page layout
+layout: page ##TODO Dont change page layout to post layout
 title: Juggling
 ---
 
