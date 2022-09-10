@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: about/
 ---
 
 ![Profile Picture](/public/dp.jpg)
