@@ -15,7 +15,7 @@ Since this was my 7th trip to Goa and in all my previous travels, I have stayed 
 
 Looking for accomodation in the South Goa, I found a very good deal on Goibibo for Treehouse Nova, Cansaulim at just 5195 INR for 3 nights with breakfasts !
 
-# Itinerary
+## Itinerary
 
 Although I have visited Goa in the past, it was the first Goa trip for my wife and so I came up with the below itinerary to consider places of South Goa keeping in mind the places of North and Central Goa as well.
 
@@ -25,20 +25,20 @@ Day 	Region 	Places
 3 	Central Goa 	Panjim city, Miramar beach
 4 	South Goa 	Arossim beach, Majorda beach, Nanu beach
 
-# Beach Hopping !
+## Beach Hopping !
 
-## Mobor Beach (Day 1)
+### Mobor Beach (Day 1)
 A view at Mobor Beach
 One of my favourite lunch : Goan Fish Thali at Betty’s Place near Mobor Beach
 
-## Calangute Beach (Day 2)
+### Calangute Beach (Day 2)
 Relaxing on the Calangute Beach
 
 At Calangute Beach, we just relaxed at a shack gazing at the sea and sipping drinks 😉
 
 > Travel Tip#1: Water sports are expensive and limited at Calangute Beach so prefer to do them at less price on Anjuna Beach which is not that far from Calangute Beach.
 
-## Anjuna Beach (Day 2)
+### Anjuna Beach (Day 2)
 
 We did water sports at Anjuna Beach.
 
@@ -51,13 +51,13 @@ Getting ready for Parasailing !
     Parasailing at Anjuna Beach
     Goan Thali Lunch near Anjuna Beach
 
-## Panaji City (Day 3)
+### Panaji City (Day 3)
 
 In Panaji, we visited the Fontainhas (Latin Quarter), Panaji Church, Viva Panjim and Miramar Beach.
 With my wife at Our Lady of the Immaculate Conception Church, Panaji
 Lunch at Viva Panjim – A famed restaurant serving delicious Goan and Portuguese cuisine
 
-## Arossim Beach (Day 4)
+### Arossim Beach (Day 4)
 Arossim Beach
 
     A view at Arossim Beach
@@ -65,7 +65,7 @@ Arossim Beach
     Arossim Beach view
     Boat (cyan) at Arossim Beach
 
-## Majorda Beach (Day 4)
+### Majorda Beach (Day 4)
 
 Parasailing activity going on at Majorda Beach
 
@@ -73,13 +73,13 @@ Parasailing activity going on at Majorda Beach
     Majorda Beach view
     Coconut trees at Majorda Beach
 
-## Nanu Beach (at Betalbatim) (Day 4)
+### Nanu Beach (at Betalbatim) (Day 4)
 
 Nanu Beach view
 
     Nanu Beach at Betalbatim
 
-# Trip Costs
+## Trip Costs
 
 I had a good 4 day / 3 night trip in Goa within my budget. I spent 16890 INR in total right from my home in Pune to Goa and back. Below is the breakdown of major expenses :
 Sr. No. 	Expense for 	Expense Amount
