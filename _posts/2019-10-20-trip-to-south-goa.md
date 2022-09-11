@@ -3,6 +3,14 @@ layout: post
 title: Trip to South Goa
 ---
 
+> ``This post is recovered from damaged website. Work is in progress for this blogpost and below 3 specific blogposts:``
+
+http://shubhamaher.com/jamun-shots-recipe
+
+http://shubhamaher.com/torna-fort-trek
+
+http://shubhamaher.com/boiled-egg-bhurji-recipe
+
 This year, in the monsoon season, knowing that the rainfall is incessant and will last longer than previous year I thought September last week will be the best time for the “annual” Goa trip. Yes!, you read it right “annual” because Goa is something I visit almost every year to unwind.
 
 Coconut trees at Arossim Beach
@@ -94,13 +102,3 @@ Sr. No. 	Expense for 	Expense Amount
 amount only) 	4595 INR
 
 Grand Total: 	16890 INR
-
-> ``This post is recovered from damaged website. Work is in progress for below 5 specific blogposts:``
-
-http://shubhamaher.com/jamun-shots-recipe
-
-http://shubhamaher.com/torna-fort-trek
-
-http://shubhamaher.com/boiled-egg-bhurji-recipe
-
-http://shubhamaher.com/trip-to-south-goa
