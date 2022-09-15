@@ -9,7 +9,7 @@ Code snippet:
 
 CSVWrtier Example in Groovy
 
-```
+```groovy
 
 @GrabConfig(systemClassLoader = true)
 @Grab(group='au.com.bytecode', module='opencsv', version='2.4')
