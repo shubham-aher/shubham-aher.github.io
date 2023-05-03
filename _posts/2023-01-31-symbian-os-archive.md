@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SymbianOS Archive
+published: true
 ---
 
 Recently, I found some SymbianOS development related files in my old backups.
