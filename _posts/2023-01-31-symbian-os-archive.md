@@ -11,12 +11,13 @@ They are a mix of some Java/C++ based SDKs and Theme Studios. Listing them for r
 Yes, 10+ years is "retro" in tech !!
 
 ### Nokia Symbian C++ SDK : 
-| Details | Filenames | Links |
+
+|Details |Filenames |Links |
 | ----------- | ----------- | ----------- |
 | Nokia Symbian^3 SDK 0.8 - Alpha Release | Nokia_Symbian3_SDK_v0_8.zip | [download URL](https://www.mediafire.com/file/2ow8oqbiu7z1pgj/Nokia_Symbian3_SDK_v0_8.zip/file) |
 
-
 ### Nokia Series 40 JavaME-based SDK : 
+
 | Details | Filenames | Links |
 | ----------- | ----------- | ----------- |
 | Nokia Series 40 Developer Platform 2.0 SDK 1.0 | Nokia_S40_DP20_SDK_1.0.zip | [download URL](https://www.mediafire.com/file/58qvsva8rx7xod7/Nokia_S40_DP20_SDK_1.0.zip/file) |
@@ -25,6 +26,7 @@ Yes, 10+ years is "retro" in tech !!
 
 
 ### Nokia Series 60 JavaME-based SDK :
+
 | Details | Filenames | Links |
 | ----------- | ----------- | ----------- |
 | Carbide.j 1.5 | carbide_j_v1_5.zip | [download URL](https://www.mediafire.com/file/i06mu5whztdarfq/carbide_j_v1_5.zip/file) |
@@ -32,6 +34,7 @@ Yes, 10+ years is "retro" in tech !!
 
 
 ### Nokia Symbian Theme-development related :
+
 | Details | Filenames | Links |
 | ----------- | ----------- | ----------- |
 | Carbide.ui Series 60 Theme Edition 3.1.1 | Carbide_ui_Theme_3_1_1_Setup.exe | [download URL](https://www.mediafire.com/file/odgbwvow6d8jr75/Carbide_ui_Theme_3_1_1_Setup.exe/file) |
@@ -41,6 +44,7 @@ Yes, 10+ years is "retro" in tech !!
 
 
 ### Sun JavaME-based SDK : 
+
 | Details | Filenames | Links |
 | ----------- | ----------- | ----------- |
 | Java Platform, Micro Edition Software Development Kit 3.0 | sun_java_me_sdk-3_0-win.exe | [download URL](https://www.mediafire.com/file/gwti0w4lgfb7ixh/sun_java_me_sdk-3_0-win.exe/file) |
