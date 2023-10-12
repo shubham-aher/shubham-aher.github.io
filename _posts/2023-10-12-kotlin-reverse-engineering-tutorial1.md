@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kotlin Reverse Engineering Tutorial#1: Study of Boolean Datatype Size
+title: Kotlin Reverse Engineering Tutorial 1 - Study of Boolean Datatype Size
 published: true
 ---
 
