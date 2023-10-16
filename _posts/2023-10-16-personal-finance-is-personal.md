@@ -14,18 +14,17 @@ A lot of times as one grows in their quest of earning money, one often feels the
 
 However without understanding one's true need and goal, it is not good to treat "finance" as something "generic". It is not "generic", in fact it is indeed "personal". 
 
-There are a varied number of reasons for which one may have management of his personal finances like :
-
-	1.  Opportunity cost
-	2.  Stability
-	3.  Volatility 
-	4.  Total cost of ownership
-	5.  Cashflow
-	6.  Capital gains
-	7.  Buying time
-	8.  Buying efforts
-	9.  Long term / short term
-	10. Etc.
+* There are a varied number of reasons for which one may have management of his personal finances like :
+	* Opportunity cost
+	* Stability
+	* Volatility 
+	* Total cost of ownership
+	* Cashflow
+	* Capital gains
+	* Buying time
+	* Buying efforts
+	* Long term / short term
+	* Etc.
 
 The list may be short / long / endless with respect to the above one, but the main idea here is, it is case by case basis depending on the individual in question. 
 
