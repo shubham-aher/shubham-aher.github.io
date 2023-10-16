@@ -21,6 +21,6 @@ When one treats it as "personal success",
 2.	He does not treat the role model, if any, as the sole destination but instead gains knowledge about the big picture of risks and rewards from the experience of the role model. 
 3.	He is aware of the "what, why, when, where and how" questions about his idea of the quest of success. 
 
-Now it seems, someone has aptly said that "personal finance" is "personal". :-)
+Now it seems, someone has aptly said that ["personal finance" is "personal"](https://shubhamaher.com/personal-finance-is-personal). ;-)
 
 So the next time you read the word "success" just replace it with "personal success" in your mind. 
