@@ -5,7 +5,7 @@ title: About
 
 ![Profile Picture](/public/dp.jpg)
 
-Hellow, there ! I am currently working as Principal Software Engineer at <a href="https://www.operative.com" target="_blank">Operative, Pune</a>.
+Hellow, there ! I am currently working as Lead Software Engineer at <a href="https://www.indexnine.com" target="_blank">IndexNine, Pune</a>.
 
 I have a Bachelor's Degree in Information Technology (University of Pune) from <a href="https://en.wikipedia.org/wiki/Pune_Institute_of_Computer_Technology" target="_blank">Pune Institute of Computer Technology</a>.
 
